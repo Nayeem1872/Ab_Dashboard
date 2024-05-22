@@ -23,7 +23,7 @@ import {
 } from "./ui/tooltip";
 import { cn } from "@/lib/utils";
 import useCheckActiveNav from "@/hooks/use-check-active-nav";
-import { sidelinks } from "@/data/sidelinks";
+// import { sidelinks } from "@/data/sidelinks";
 
 export default function Nav({
   links,
